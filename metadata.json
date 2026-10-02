@@ -1,0 +1,6 @@
+{
+  "name": "hideenwikky - Access Pass & Digital Card Gateway",
+  "description": "hideenwikky protected access gateway, timed keys, dynamic digital card catalog, and user wallet system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
